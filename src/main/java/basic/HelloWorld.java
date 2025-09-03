@@ -7,4 +7,9 @@ public class HelloWorld {
     
     }
     
+	//code changes from b1 branches
+	public void m1() {
+		    System.out.println("print method-1");
+	}
+	
 }
